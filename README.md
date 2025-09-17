@@ -1,12 +1,12 @@
 # Student Sleep Deprivation Prediction
 
-## 📝 Project Overview
+##  Project Overview
 
 This project explores the factors contributing to sleep deprivation in students by building a predictive machine learning model. Using **Logistic Regression**, the model analyzes a student's daily habits—such as study hours, screen time, and caffeine intake—to classify whether they are sleep-deprived. The goal is to create a reliable classifier that can help identify patterns related to sleep health among students.
 
 ---
 
-## 📊 Dataset and Features
+##  Dataset and Features
 
 The model is trained on the `student_sleep_deprivation_dataset.csv`, which contains 500 entries. The key features used for prediction include:
 
@@ -18,7 +18,7 @@ The model is trained on the `student_sleep_deprivation_dataset.csv`, which conta
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 The core of the project is a Python script utilizing powerful data science libraries.
 
@@ -30,7 +30,7 @@ The core of the project is a Python script utilizing powerful data science libra
 
 ---
 
-## 📈 Results and Evaluation
+##  Results and Evaluation
 
 The trained model demonstrates strong predictive performance, achieving an overall **accuracy of 85%** on the test set.
 
